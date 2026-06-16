@@ -21,13 +21,7 @@ The solution transforms raw transaction data into actionable business insights t
 * Quantify revenue exposure from fraud
 * Monitor fraud trends and emerging patterns
 * Deliver executive-level business intelligence
-
----
-
-## 📊 Dashboard Preview
-
-![Dashboard Overview](images/dashboard.png)
-
+  
 ---
 
 ## 🏗️ End-to-End Pipeline
